@@ -1,6 +1,6 @@
 <div align="center">
  
-  ## nft7o mwdo3!
+  ## Hilo world!
 
   [![ohalim's 42 stats](https://badge.mediaplus.ma/darkblue/ohalim)](https://github.com/3umi/badge42)
 
