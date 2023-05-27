@@ -46,4 +46,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/3umi/3umi/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+  <div align="right">
+    <i> credit to the <b> <a href="https://github.com/Platane/snk">snk repository </a></i> </b>
+  </div>
