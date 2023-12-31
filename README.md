@@ -1,11 +1,5 @@
 <div align="center">
  <a href="https://github.com/3umi">
-  <img src="Resources/GIFs/Hello_World.gif" style="height: 150px; width:250px;">
-</div> 
-<br>
-<br>
-<div align="center">
- <a href="https://github.com/3umi">
   <img src="https://badge.mediaplus.ma/darkblue/ohalim">
 </div> 
 <br>
