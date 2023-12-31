@@ -1,29 +1,7 @@
 <div align="center">
  <a href="https://github.com/3umi">
   <img src="https://badge.mediaplus.ma/darkblue/ohalim">
-</div> 
-<br>
-<details>
- <summary>:round_pushpin:GitHub Activity Graphs</summary>
- <br>
-    <div align="center">
-  <a href="https://github.com/3umi">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=3umi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    </div>
- <br>
-    <div align="center">
-     <a href="https://github.com/3umi">
-       <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3umi&layout=compact&langs_count=7&theme=tokyonight"/>
-    </div>
-<br>
-    <div align="center">
-     <a href="https://github.com/3umi">
-      <img height="160em alt="Streak Graphics" src="https://github-readme-streak-stats.herokuapp.com/?user=3umi&theme=tokyonight">
-    </div>
- <br>
-</details>
-                                                                                                                                 
-<br>
+</div>                                                                                                                         
 <br>
      <div align="center">
       <a href="https://github.com/3umi">
@@ -44,3 +22,23 @@
   <div align="right">
     <i> credit to the <b> <a href="https://github.com/Platane/snk">snk repository </a></i> </b>
   </div>
+
+<details>
+ <summary>:round_pushpin: View More </summary>
+ <br>
+    <div align="center">
+  <a href="https://github.com/3umi">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=3umi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    </div>
+ <br>
+    <div align="center">
+     <a href="https://github.com/3umi">
+       <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3umi&layout=compact&langs_count=7&theme=tokyonight"/>
+    </div>
+<br>
+    <div align="center">
+     <a href="https://github.com/3umi">
+      <img height="160em alt="Streak Graphics" src="https://github-readme-streak-stats.herokuapp.com/?user=3umi&theme=tokyonight">
+    </div>
+ <br>
+</details>
