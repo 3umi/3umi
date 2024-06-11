@@ -7,6 +7,7 @@
       <a href="https://github.com/3umi">
        <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
      </div>
      <div align="center">
       <a href="https://github.com/3umi">              
