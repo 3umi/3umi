@@ -10,7 +10,7 @@
 </div>
 
   <div align="right">
-    <i> credit to the <b> <a href="https://github.com/Platane/snk">snk repository </a></i> </b>
+    <i> <b> <a href="https://github.com/Platane/snk">snk repository </a></i>
   </div>
 
 <details>
